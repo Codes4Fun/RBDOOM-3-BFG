@@ -39,3 +39,4 @@ neo/neo.kdev4
 LibOVR
 neo/libs/OpenVR/temp
 SixenseSDK*
+msvc*
